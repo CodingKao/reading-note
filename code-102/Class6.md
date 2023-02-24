@@ -21,4 +21,4 @@
 
 
 **What is information received from the user called?**
->In JavaScript, information received from the user is called user input.
+>In JavaScript, information received from the user is called **user input**.
