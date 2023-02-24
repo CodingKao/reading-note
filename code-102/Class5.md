@@ -16,9 +16,9 @@
 >
 >1. Inline CSS: style attributes are added directly to HTML elements. 
 >2. Internal CSS: style rules are placed within the head section of the HTML document using <style> element. 
->3. External CSS: style rules are placed in an external file, which is referenced from the HTML document using the <link> element.
+>3. External CSS: style rules are placed in an external file, which is referenced from the HTML document using the 'link' element.
 	
 
-**Write an example of a CSS rule that would give all {<p>} elements red text.**
+**Write an example of a CSS rule that would give all 'p' elements red text.**
 >
     p { color: red; }
