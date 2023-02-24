@@ -2,9 +2,9 @@
 
 # Revisions and the Cloud
 
-### Link to article: [Git Intro](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+#### Link to article: [Git Intro](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
-<br></br>
+***
 
 **What is Version Control?**
 >Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes. Through version control, one can revert a file or project to a previous version, track modifications and modifying individuals, and compare changes. By utilizing a Version Control System (VCS), mistakes with files can easily be rectified
@@ -30,7 +30,7 @@ By cloning the file, you have copied all versions of all files for a project. Th
 
 **What is the command to take a snapshot of your changed files?**
 >    
-git status
+    git status
 >
 >This information tells us that there are changes to be committed and that the file has been staged.
 

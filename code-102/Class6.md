@@ -2,11 +2,11 @@
 
 ## Dynamic web pages with JavaScript
 
-### Link to article: [JS Intro Paragraph](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-### Link to article: [Introduction to JavaScript - basic output](https://code-maven.com/introduction-to-javascript)
-### Link to article: [JavaScript input with prompt and confirm](https://code-maven.com/javascript-input-with-prompt-and-confirm)
+#### Link to article: [JS Intro Paragraph](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+#### Link to article: [Introduction to JavaScript - basic output](https://code-maven.com/introduction-to-javascript)
+#### Link to article: [JavaScript input with prompt and confirm](https://code-maven.com/javascript-input-with-prompt-and-confirm)
 
-<br></br>
+***
 
 **What are variables in JavaScript?**
 >Variables in JavaScript are containers for storing data values. They are used for storing, retrieving and manipulating data. Variables can be declared using the "var" keyword, and can be given any name, such as x, myName, or totalSum. The value of a variable can be changed at any time.

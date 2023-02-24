@@ -2,10 +2,10 @@
 
 # Design Web Pages With CSS
 
-### Link to article: [What is CSS?](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
-### Link to article: [How To Add CSS](https://www.w3schools.com/css/css_howto.asp)
+#### Link to article: [What is CSS?](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
+#### Link to article: [How To Add CSS](https://www.w3schools.com/css/css_howto.asp)
 
-<br></br>
+***
 
 **What is the purpose of CSS?**
 >CSS is a language for specifying how documents are presented to users — how they are styled, laid out, etc.  The purpose of CSS is to provide a style layer for HTML documents, enabling developers to create visually appealing webpages. CSS enables developers to define the look and feel of a website, such as the font, colors, and layout, without having to code each page individually.
@@ -19,6 +19,6 @@
 >3. External CSS: style rules are placed in an external file, which is referenced from the HTML document using the '<link>' element.
 	
 
-**Write an example of a CSS rule that would give all /*<p>*/ elements red text.**
+**Write an example of a CSS rule that would give all /<p> elements red text.**
 >
     p { color: red; }

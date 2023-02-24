@@ -2,11 +2,11 @@
 
 ## Programming with JavaScript
 
-### Link to article: [MDN Control Flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)
-### Link to article: [Functions](https://www.w3schools.com/js/js_functions.asp)
-### Link to article: [Operators](https://www.w3schools.com/js/js_operators.asp)
+#### Link to article: [MDN Control Flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)
+#### Link to article: [Functions](https://www.w3schools.com/js/js_functions.asp)
+#### Link to article: [Operators](https://www.w3schools.com/js/js_operators.asp)
 
-<br></br>
+***
 
 **What is control flow?**
 >The control flow is the order in which the computer executes statements in a script.
