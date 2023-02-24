@@ -2,10 +2,10 @@
 
 ## Operators and Loops
 
-## Link to article: [Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
-## Link to article: [Loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
+### Link to article: [Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+### Link to article: [Loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
 
-<p></p>
+<br></br>
 
 **What is an expression in JavaScript?**
 >An expression in JavaScript is a combination of values, variables, and operators that evaluates to a single value.
