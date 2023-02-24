@@ -5,7 +5,7 @@
 ## Link to article: [MDN Control Flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)
 ## Link to article: [Functions](https://www.w3schools.com/js/js_functions.asp)
 ## Link to article: [Operators](https://www.w3schools.com/js/js_operators.asp)
-
+<p></p>
 
 **What is control flow?**
 >The control flow is the order in which the computer executes statements in a script.
@@ -16,7 +16,7 @@
 >
 >A JavaScript function is executed when "something" invokes it (calls it).
 
-
+<br></br>
 **What does it mean to invoke - or call - a function?**
 >The code inside the function will execute when "something" invokes (calls) the function:
 >
@@ -33,5 +33,5 @@
 >(parameter1, parameter2, ...)
 >
 >>Function parameters are listed inside the parentheses () in the function definition.
->>Function arguments are the values received by the function when it is invoked.
+>>Function arguments are the values received by the function when it is invoked.<br></br>
 >>Inside the function, the arguments (the parameters) behave as local variables.

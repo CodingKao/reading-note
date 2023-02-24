@@ -13,25 +13,28 @@ By cloning the file, you have copied all versions of all files for a project. Th
 
 **What is the command to track and stage files?**
 >Single File
+
 >Track one file only by using the following format:
 >
     git add filename
 >
 >
 >All Files
-Track all files in a repository by using the following command:
+>
+>Track all files in a repository by using the following command:
 >
     git add *
 
 
 **What is the command to take a snapshot of your changed files?**
-    git status
-
+>    git status
+>
 >This information tells us that there are changes to be committed and that the file has been staged.
 
 
 **What is the command to send your changed files to Github?**
 > The command to send your changed files to Github is:
+>
     git push origin main
-
+>
 > This command pushes changes from the local “main” branch to the remote repository named “origin”.

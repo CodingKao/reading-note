@@ -12,7 +12,7 @@
 
 
 **What are the 3 main parts of an HTML element?**
->1. **Tag**: The tag is the element type indicated by a keyword surrounded by angle brackets, such as '<h1>'.
+>1. **Tag**: ''The tag is the element type indicated by a keyword surrounded by angle brackets, such as '<h1>'.''
 >2. **Content**: The content of the element is the information between the opening and closing tags. This could be text, HTML, or a combination of both.
 >3. **Element**: The opening tag, the closing tag, and the content together comprise the element.
 
