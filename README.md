@@ -2,7 +2,7 @@
 
 ## My Reading Journal for Code Fellows
 
-Hello! My name is Kao Saelor and I was born in Thailand.  I have served in the United States Marine Corps where I was stationed at Marine Corps Air Station Miramar in San Diego, CA.  I am also a recent graduate of the University of Portland's Master of Finance program.  I hope to use what I've learn in this course to create powerful and effective financial applications.
+Hi, my name is Kao Saelor and this is my reading notes for Code Fellows. I am an aspiring software developer passionate about building innovative applications that solve complex problems. Currently, I am enrolled in Code Fellows and I am excited to use this opportunity to grow as a developer. I am looking forward to learning new technologies and tools, and to work on challenging projects with amazing people.
 
 Link to my Github portfolio: [https://github.com/codingkao](https://github.com/codingkao)
 
