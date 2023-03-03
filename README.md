@@ -10,7 +10,7 @@ Welcome to my Reading Notes Learning Journal and I'm excited to share my journey
 
 # Table of Contents
   
-### Code 102 Reading Notes
+### Code 102 - Intro to Software Development
 
 - [Class 1 - Learning Markdown](code-102/Class1.md)
 - [Class 2 - The Coder's Computer](code-102/Class2.md)
@@ -18,23 +18,46 @@ Welcome to my Reading Notes Learning Journal and I'm excited to share my journey
 - [Class 4 - Structure web pages with HTML](code-102/Class4.md)
 - [Class 5 - Design web pages with CSS](code-102/Class5.md)
 - [Class 6 - Dynamic web pages with JavaScript](code-102/Class6.md)
-- [Class - 7 Programming with JavaScript](code-102/Class7.md)
+- [Class 7 - Programming with JavaScript](code-102/Class7.md)
 - [Class 8 - Operators and Loops](code-102/Class8.md)
 
-## Code 102 Reading Notes
+## Code 201 - Foundations of Software Development
 
-- [Class 1 -](code-201/Class1.md)
-- [Class 2 -](code-201/Class2.md)
-- [Class 3 -](code-201/Class3.md)
-- [Class 4 -](code-201/Class4.md)
-- [Class 5 -](code-201/Class5.md)
-- [Class 6 -](code-201/Class6.md)
-- [Class 7 -](code-201/Class7.md)
-- [Class 8 -](code-201/Class8.md)
-- [Class 9-](code-102/Class1.md)
-- [Class 10 -](code-102/Class2.md)
-- [Class 11 -](code-102/Class3.md)
-- [Class 12 -](code-102/Class4.md)
-- [Class 13 -](code-102/Class5.md)
-- [Class 14 -](code-102/Class6.md)
+- [Class 1 - Setup Developer Toolbelt](code-201/Class1.md)
+- [Class 2 - Intro to Web Development](code-201/Class2.md)
+- [Class 3 - Lists, The Box Model, and Loops](code-201/Class3.md)
+- [Class 4 - Links, Layouts, and Functions](code-201/Class4.md)
+- [Class 5 - Images, Color, Text, and More Functions](code-201/Class5.md)
+- [Class 6 - Domain Modeling, Intro to DOM, and Object Literal Notation](code-201/Class6.md)
+- [Class 7 - HTML Tables and JS Constructor Functions](code-201/Class7.md)
+- [Class 8 - Layout with CSS](code-201/Class8.md)
+- [Class 9- Forms and Events](code-102/Class1.md)
+- [Class 10 - Debugging and Error Handling](code-102/Class2.md)
+- [Class 11 - Audio and Video in HTML; Domain Modeling Revisted](code-102/Class3.md)
+- [Class 12 - Canvas and ChartJS](code-102/Class4.md)
+- [Class 13 - Intro to Persistence with Local Storage](code-102/Class5.md)
+- [Class 14 - Documentation, Project Selection & Team Workflow](code-102/Class6.md)
 - [Class 15 -](code-102/Class7.md)
+
+
+## Code 301 - Intermediate Software Development
+- [Class 1 - ](code-301/Class1.md)
+- [Class 2 - ](code-301/Class2.md)
+- [Class 3 - ](code-301/Class3.md)
+- [Class 4 - ](code-301/Class4.md)
+- [Class 5 - ](code-301/Class5.md)
+- [Class 6 - ](code-301/Class6.md)
+- [Class 7 - ](code-301/Class7.md)
+- [Class 8 - ](code-301/Class8.md)
+
+## Code 401 - Advance Software Development
+- [Class 1 - ](code-401/Class1.md)
+- [Class 2 - ](code-401/Class2.md)
+- [Class 3 - ](code-401/Class3.md)
+- [Class 4 - ](code-401/Class4.md)
+- [Class 5 - ](code-401/Class5.md)
+- [Class 6 - ](code-401/Class6.md)
+- [Class 7 - ](code-401/Class7.md)
+- [Class 8 - ](code-401/Class8.md)
+
+## Things I want to know more about
