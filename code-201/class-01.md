@@ -78,16 +78,16 @@
 **What Elements does a “typical” website include?**
 > A typical website includes the following HTML elements:
 >
-> \<head> element containing meta information, titles, and links to external resources such as stylesheets and scripts.
-> \<body> element containing the content of the webpage, such as text, images, and links.
-> \<nav> element containing links to other pages within the website.
-> \<main> element containing the main content of the page.
-> \<footer> element containing contact information or copyright information.
-> \<div> elements used to define sections of the page.
-> \<span> elements used to style specific elements on the page.
-> \<img> elements used to display images.
-> \<form> elements used to collect user input.
-> \<button> elements used to submit forms.
+> - \<head> element containing meta information, titles, and links to external resources such as stylesheets and scripts.
+> - \<body> element containing the content of the webpage, such as text, images, and links.
+> - \<nav> element containing links to other pages within the website.
+> - \<main> element containing the main content of the page.
+> - \<footer> element containing contact information or copyright information.
+> - \<div> elements used to define sections of the page.
+> - \<span> elements used to style specific elements on the page.
+> - \<img> elements used to display images.
+> - \<form> elements used to collect user input.
+> - \<button> elements used to submit forms.
 
 **How does metadata influence Search Engine Optimization?**
 >Metadata is important for SEO because it helps search engines understand the content of a website. It can include titles, descriptions, and keywords that help search engines identify the content. By including metadata, website owners can help search engines understand their content better and rank it higher in search engine results pages. Additionally, metadata can be used to generate rich snippets, which can help draw attention to a website and potentially increase clicks.
