@@ -61,7 +61,7 @@
 **What is an HTML attribute?**
 >An HTML attribute is an additional property assigned to an HTML element. Attributes provide additional information about an element and can be used to control how the element is displayed in the browser. Attributes usually come in name/value pairs, such as "name="value"".
 
-**Describe the Anatomy of an HTMl element.**
+**Describe the Anatomy of an HTML element.**
 >The anatomy of our element is:
 >
 >The opening tag: This consists of the name of the element (in this example, p for paragraph), wrapped in opening and closing angle brackets. This opening tag marks where the element begins or starts to take effect. In this example, it precedes the start of the paragraph text.
@@ -73,24 +73,24 @@
 >The element is the opening tag, followed by content, followed by the closing tag.
 
 **What is the Difference between \<article> and \<section> element tags?**
->The <article> element is used to represent an independent piece of content that could stand on its own, such as a blog post, a news article, or a product review. The >\<section> element is used to group related content together into sections. It is often used to group related content together within an \<article> element, such as the >introduction, body, and conclusion of an article.
+>The \<article> element is used to represent an independent piece of content that could stand on its own, such as a blog post, a news article, or a product review. The \<section> element is used to group related content together into sections. It is often used to group related content together within an \<article> element, such as the introduction, body, and conclusion of an article.
 
 **What Elements does a “typical” website include?**
 > A typical website includes the following HTML elements:
 >
-> •     \<head> element containing meta information, titles, and links to external resources such as stylesheets and scripts.
-> •     \<body> element containing the content of the webpage, such as text, images, and links.
-> •     \<nav> element containing links to other pages within the website.
-> •     \<main> element containing the main content of the page.
-> •     \<footer> element containing contact information or copyright information.
-> •     \<div> elements used to define sections of the page.
-> •     \<span> elements used to style specific elements on the page.
-> •     \<img> elements used to display images.
-> •     \<form> elements used to collect user input.
-> •     \<button> elements used to submit forms.
+> \<head> element containing meta information, titles, and links to external resources such as stylesheets and scripts.
+> \<body> element containing the content of the webpage, such as text, images, and links.
+> \<nav> element containing links to other pages within the website.
+> \<main> element containing the main content of the page.
+> \<footer> element containing contact information or copyright information.
+> \<div> elements used to define sections of the page.
+> \<span> elements used to style specific elements on the page.
+> \<img> elements used to display images.
+> \<form> elements used to collect user input.
+> \<button> elements used to submit forms.
 
 **How does metadata influence Search Engine Optimization?**
-?Metadata is important for SEO because it helps search engines understand the content of a website. It can include titles, descriptions, and keywords that help search engines identify the content. By including metadata, website owners can help search engines understand their content better and rank it higher in search engine results pages. Additionally, metadata can be used to generate rich snippets, which can help draw attention to a website and potentially increase clicks.
+>Metadata is important for SEO because it helps search engines understand the content of a website. It can include titles, descriptions, and keywords that help search engines identify the content. By including metadata, website owners can help search engines understand their content better and rank it higher in search engine results pages. Additionally, metadata can be used to generate rich snippets, which can help draw attention to a website and potentially increase clicks.
 
 **How is the \<meta> HTML tag used when specifying metadata?**
 > The \<meta> HTML tag is used to provide metadata about the HTML document. Metadata is information about the page that describes its content. It can be used to specify the document’s author, keywords for search engines, a description of the page’s content, and other relevant information. Metadata helps search engines and other applications better understand the content of a website.
