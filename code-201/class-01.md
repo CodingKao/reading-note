@@ -27,7 +27,7 @@
 **Describe how HTML, CSS, and JS files are “parsed” in the browser.**
 > When a web browser receives HTML, CSS, and JavaScript files, it must "parse" them in order to display the web page correctly.
 >
-> HTML: When a browser receives an HTML file, it will parse the HTML file, line by line, from top to bottom. The browser will look for HTML tags, such as /<body>, /<head>, and  /<title>, and will interpret those tags to display the page in the correct way.
+> HTML: When a browser receives an HTML file, it will parse the HTML file, line by line, from top to bottom. The browser will look for HTML tags, such as \<body>, \<head>, and  \<title>, and will interpret those tags to display the page in the correct way.
 
 >CSS: When the browser receives a CSS file, it will parse the CSS file, line by line, from top to bottom. The browser will look for CSS rules, such as font-size, background-color, and width, and will apply those rules to the elements on the page, in order to style the page correctly.
 
@@ -46,10 +46,10 @@
 **How do you create a String vs a Number in JavaScript?**
 >String - To create a string in JavaScript, you need to use quotation marks around the string's value. 
 >
-    >> let myString = "This is a string";
+     let myString = "This is a string";
 >Number - To create a number in JavaScript, you simply assign the number without any quotations
 >
-    >> let myNumber = 42;
+     let myNumber = 42;
 
 **What is a Variable and why are they important in JavaScript?**
 > A variable is a named container that holds a value. Variables are important in JavaScript because they enable us to store, access, and manipulate data within our programs.
@@ -72,25 +72,25 @@
 >
 >The element is the opening tag, followed by content, followed by the closing tag.
 
-**What is the Difference between /<article> and /<section> element tags?**
->The <article> element is used to represent an independent piece of content that could stand on its own, such as a blog post, a news article, or a product review. The >/<section> element is used to group related content together into sections. It is often used to group related content together within an /<article> element, such as the >introduction, body, and conclusion of an article.
+**What is the Difference between \<article> and \<section> element tags?**
+>The <article> element is used to represent an independent piece of content that could stand on its own, such as a blog post, a news article, or a product review. The >\<section> element is used to group related content together into sections. It is often used to group related content together within an \<article> element, such as the >introduction, body, and conclusion of an article.
 
 **What Elements does a “typical” website include?**
 > A typical website includes the following HTML elements:
 >
-> •     /<head> element containing meta information, titles, and links to external resources such as stylesheets and scripts.
-> •     /<body> element containing the content of the webpage, such as text, images, and links.
-> •     /<nav> element containing links to other pages within the website.
-> •     /<main> element containing the main content of the page.
-> •     /<footer> element containing contact information or copyright information.
-> •     /<div> elements used to define sections of the page.
-> •     /<span> elements used to style specific elements on the page.
-> •     /<img> elements used to display images.
-> •     /<form> elements used to collect user input.
-> •     /<button> elements used to submit forms.
+> •     \<head> element containing meta information, titles, and links to external resources such as stylesheets and scripts.
+> •     \<body> element containing the content of the webpage, such as text, images, and links.
+> •     \<nav> element containing links to other pages within the website.
+> •     \<main> element containing the main content of the page.
+> •     \<footer> element containing contact information or copyright information.
+> •     \<div> elements used to define sections of the page.
+> •     \<span> elements used to style specific elements on the page.
+> •     \<img> elements used to display images.
+> •     \<form> elements used to collect user input.
+> •     \<button> elements used to submit forms.
 
 **How does metadata influence Search Engine Optimization?**
 ?Metadata is important for SEO because it helps search engines understand the content of a website. It can include titles, descriptions, and keywords that help search engines identify the content. By including metadata, website owners can help search engines understand their content better and rank it higher in search engine results pages. Additionally, metadata can be used to generate rich snippets, which can help draw attention to a website and potentially increase clicks.
 
-**How is the /<meta> HTML tag used when specifying metadata?**
-> The /<meta> HTML tag is used to provide metadata about the HTML document. Metadata is information about the page that describes its content. It can be used to specify the document’s author, keywords for search engines, a description of the page’s content, and other relevant information. Metadata helps search engines and other applications better understand the content of a website.
+**How is the \<meta> HTML tag used when specifying metadata?**
+> The \<meta> HTML tag is used to provide metadata about the HTML document. Metadata is information about the page that describes its content. It can be used to specify the document’s author, keywords for search engines, a description of the page’s content, and other relevant information. Metadata helps search engines and other applications better understand the content of a website.
