@@ -23,21 +23,21 @@ Welcome to my Reading Notes Learning Journal and I'm excited to share my journey
 
 ## Code 201 - Foundations of Software Development
 
-- [Class 1 - Setup Developer Toolbelt](code-201/Class1.md)
-- [Class 2 - Intro to Web Development](code-201/Class2.md)
-- [Class 3 - Lists, The Box Model, and Loops](code-201/Class3.md)
-- [Class 4 - Links, Layouts, and Functions](code-201/Class4.md)
-- [Class 5 - Images, Color, Text, and More Functions](code-201/Class5.md)
-- [Class 6 - Domain Modeling, Intro to DOM, and Object Literal Notation](code-201/Class6.md)
-- [Class 7 - HTML Tables and JS Constructor Functions](code-201/Class7.md)
-- [Class 8 - Layout with CSS](code-201/Class8.md)
-- [Class 9- Forms and Events](code-102/Class1.md)
-- [Class 10 - Debugging and Error Handling](code-102/Class2.md)
-- [Class 11 - Audio and Video in HTML; Domain Modeling Revisted](code-102/Class3.md)
-- [Class 12 - Canvas and ChartJS](code-102/Class4.md)
-- [Class 13 - Intro to Persistence with Local Storage](code-102/Class5.md)
-- [Class 14 - Documentation, Project Selection & Team Workflow](code-102/Class6.md)
-- [Class 15 -](code-102/Class7.md)
+- [Class 1 - Setup Developer Toolbelt](code-201/class-01.md)
+- [Class 2 - Intro to Web Development](code-201/class-02.md)
+- [Class 3 - Lists, The Box Model, and Loops](code-201/class-03.md)
+- [Class 4 - Links, Layouts, and Functions](code-201/class-04.md)
+- [Class 5 - Images, Color, Text, and More Functions](code-201/class-05.md)
+- [Class 6 - Domain Modeling, Intro to DOM, and Object Literal Notation](code-201/class-06.md)
+- [Class 7 - HTML Tables and JS Constructor Functions](code-201/class-07.md)
+- [Class 8 - Layout with CSS](code-201/class-08.md)
+- [Class 9- Forms and Events](code-201/class-09.md)
+- [Class 10 - Debugging and Error Handling](code-201/class-10.md)
+- [Class 11 - Audio and Video in HTML; Domain Modeling Revisted](code-201/class-11.md)
+- [Class 12 - Canvas and ChartJS](code-201/class-12.md)
+- [Class 13 - Intro to Persistence with Local Storage](code-201/class-13.md)
+- [Class 14 - Documentation, Project Selection & Team Workflow](code-201/class-14.md)
+- [Class 15 -](code-201/class-15.md)
 
 
 ## Code 301 - Intermediate Software Development
