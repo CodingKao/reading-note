@@ -27,7 +27,7 @@
 
 
 ***
-# #CSS
+## CSS
 **What are ways we can apply CSS to our HTML?**
 >External Stylesheet: An external stylesheet is a separate document linked to an HTML document. It is often a .css file and contains all the styles for a particular website. To link the external stylesheet to the HTML document you would use the \<link> tag in the head section of the document. 
 >
@@ -41,14 +41,17 @@
 **Review the block of code below and answer the following questions:**
 >**What is representing the selector?**
 >The selector is "h2".
+>
 >**Which components are the CSS declarations?**
 >The CSS declarations are "color: black;" and "padding: 5px;".
+>
 >**Which components are considered properties?**
 >The properties in this code are: color, padding.
-    h2 {
-     color: black;
-     padding: 5px;
-    }
+>
+>    h2 {
+>     color: black;
+>     padding: 5px;
+>    }
 
 ***
 ## Learn JS
