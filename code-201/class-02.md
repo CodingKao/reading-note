@@ -12,12 +12,12 @@
 ***
 
 **Why is it important to use semantic elements in our HTML?**
->Semantic elements are important to use in HTML because they provide structure and meaning to our HTML code. Semantic elements make it easier for search engines and other technologies to interpret the meaning >of our content. For example, using semantic elements like \<header>, \<footer>, \<article>, \<section>, and \<nav> allows the search engine to better understand the structure of the page and provide more >relevant search results. Additionally, using semantic elements makes the HTML code more organized, readable, and maintainable.
+>Semantic elements are important to use in HTML because they provide structure and meaning to our HTML code. Semantic elements make it easier for search engines and other technologies to interpret the meaning of our content. For example, using semantic elements like \<header>, \<footer>, \<article>, \<section>, and \<nav> allows the search engine to better understand the structure of the page and provide more relevant search results. Additionally, using semantic elements makes the HTML code more organized, readable, and maintainable.
 
 **How many levels of headings are there in HTML?**
 >There are six levels of headings in HTML. They are h1, h2, h3, h4, h5, and h6.
 
-**What are some uses for the <sup> and <sub> elements?**
+**What are some uses for the \<sup> and \<sub> elements?**
 >The \<sup> and \<sub> elements can be used to create superscripts and subscripts. They are often used to denote mathematical operations, scientific notation, footnotes, and trademark symbols. They can also be used to denote a person’s name, a date, a trademarked phrase, or any other type of text that needs to be set apart from the rest of the text.
 
 
@@ -39,11 +39,11 @@
 
 **Review the block of code below and answer the following questions:**
 >**What is representing the selector?**
->>The selector is "h2".
+>The selector is "h2".
 >**Which components are the CSS declarations?**
->>The CSS declarations are "color: black;" and "padding: 5px;".
+>The CSS declarations are "color: black;" and "padding: 5px;".
 >**Which components are considered properties?**
->>The properties in this code are: color, padding.
+>The properties in this code are: color, padding.
     h2 {
      color: black;
      padding: 5px;
@@ -74,7 +74,9 @@
 
 **List 3 different types of comparison operators.**
 >=== and !== — test if one value is identical to, or not identical to, another.
+>
 >< and > — test if one value is less than or greater than another.
+>
 ><= and >= — test if one value is less than or equal to, or greater than or equal to, another.
 
 **What is the difference between the logical operator && and ||?**
