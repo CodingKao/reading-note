@@ -10,6 +10,10 @@
 #### Link to article: [Making Decisions In Your Code - Conditional](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
 
 ***
+>HTML, CSS, and JavaScript are three of the most important programming languages used to create websites and web applications. HTML is used to define the structure and content of a web page, CSS is used to define the styling and layout of a web page, and JavaScript is used to make a web page interactive. Together, these three technologies are the foundation for creating dynamic, interactive websites and modern web applications.
+
+
+***
 ## Introduction to HTML
 
 **Why is it important to use semantic elements in our HTML?**
