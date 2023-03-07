@@ -45,9 +45,9 @@
 >The CSS box model as a whole applies to block boxes and defines how the different parts of a box — margin, border, padding, and content — work together to create a box that you can see on a page.
 >
 > - Content box: The area where your content is displayed; size it using properties like inline-size and block-size or width and height.
- - Padding box: The padding sits around the content as white space; size it using padding and related properties.
-- Border box: The border box wraps the content and any padding; size it using border and related properties.
-- Margin box: The margin is the outermost layer, wrapping the content, padding, and border as whitespace between this box and other elements; size it using margin and related properties.
+> - Padding box: The padding sits around the content as white space; size it using padding and related properties.
+> - Border box: The border box wraps the content and any padding; size it using border and related properties.
+> - Margin box: The margin is the outermost layer, wrapping the content, padding, and border as whitespace between this box and other elements; size it using margin and related properties.
 
 
 ***
@@ -57,25 +57,25 @@
 >You can store any data type, including strings, numbers, objects, booleans, other arrays, and functions.
 
 **Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why**
-     const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];
+>     '''const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];'''
 >Yes, this is a valid array of arrays.
 >
 >Items in an array are numbered, starting from zero. This number is called the item's index. So the first item has index 0, the second has index 1, and so on. You can access individual items in the array using bracket notation and supplying the item's index, in the same way that you accessed the letters in a string.
 
 **List five shorthand operators for assignment in javascript and describe what they do.**
 >1. += : This operator adds the right operand to the left operand and assigns the result to the left operand.
-
-2. -= : This operator subtracts the right operand from the left operand and assigns the result to the left operand.
-
-3. *= : This operator multiplies the right operand with the left operand and assigns the result to the left operand.
-
-4. /= : This operator divides the left operand by the right operand and assigns the result to the left operand.
-
-5. %= : This operator calculates the remainder of dividing the left operand by the right operand and assigns the result to the left operand.
+>
+>2. -= : This operator subtracts the right operand from the left operand and assigns the result to the left operand.
+>
+>3. *= : This operator multiplies the right operand with the left operand and assigns the result to the left operand.
+>
+>4. /= : This operator divides the left operand by the right operand and assigns the result to the left operand.
+>
+>5. %= : This operator calculates the remainder of dividing the left operand by the right operand and assigns the result to the left operand.
 
 **Read the code below and evaluate the last expression and explain what the result would be and why.**
 >
-     let a = 10;
+    let a = 10;
     let b = 'dog';
     let c = false;
     // evaluate this
@@ -95,11 +95,10 @@
     {name: 'Bob', age: 28}
     ];
 >
->
-    for(let i = 0; i < array.length; i++) {
+   ''' for(let i = 0; i < array.length; i++) {
     console.log(array[i].name); }
 >
 >// Output: 
 >// John
 >// Jane
->// Bob
+>// Bob'''
