@@ -10,6 +10,7 @@
 #### Link to article: [Making Decisions In Your Code - Conditional](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
 
 ***
+## Introduction to HTML
 
 **Why is it important to use semantic elements in our HTML?**
 >Semantic elements are important to use in HTML because they provide structure and meaning to our HTML code. Semantic elements make it easier for search engines and other technologies to interpret the meaning of our content. For example, using semantic elements like \<header>, \<footer>, \<article>, \<section>, and \<nav> allows the search engine to better understand the structure of the page and provide more relevant search results. Additionally, using semantic elements makes the HTML code more organized, readable, and maintainable.
@@ -26,7 +27,7 @@
 
 
 ***
-
+# #CSS
 **What are ways we can apply CSS to our HTML?**
 >External Stylesheet: An external stylesheet is a separate document linked to an HTML document. It is often a .css file and contains all the styles for a particular website. To link the external stylesheet to the HTML document you would use the \<link> tag in the head section of the document. 
 >
@@ -50,7 +51,7 @@
     }
 
 ***
-
+## Learn JS
 **What data type is a sequence of text enclosed in single quote marks?**
 >A sequence of text enclosed in single quote marks is a string data type.
 
