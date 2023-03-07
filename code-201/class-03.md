@@ -94,11 +94,9 @@
     {name: 'Jane', age: 23},
     {name: 'Bob', age: 28}
     ];
->
->   for(let i = 0; i < array.length; i++) {
->    console.log(array[i].name); }
->
->// Output: 
->// John
->// Jane
->// Bob
+    for(let i = 0; i < array.length; i++) {
+    console.log(array[i].name); }
+    // Output: 
+    // John
+    // Jane
+    // Bob
