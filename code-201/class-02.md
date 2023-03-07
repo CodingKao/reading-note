@@ -88,4 +88,5 @@
 ><= and >= — test if one value is less than or equal to, or greater than or equal to, another.
 
 **What is the difference between the logical operator && and ||?**
->The logical operator && (AND) returns true if both of the expressions on either side of it are true. The logical operator || (OR) returns true if either of the expressions on either side of it are true.
+>The logical operator && (AND) returns true if both of the expressions on either side of it are true. 
+>The logical operator || (OR) returns true if either of the expressions on either side of it are true.
