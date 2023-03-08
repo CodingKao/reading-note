@@ -42,11 +42,11 @@
 
 **Name a few advantages to using absolute positioning on an element.**
 >
-- 1. Greater control over the exact location of elements on the page.
-- 2. Ability to layer elements on top of each other.
-- 3. Flexibility to place elements outside of the normal flow of a page.
-- 4. Ability to place elements in precise locations relative to the browser window.
-- 5. Ability to create complex layouts without the need for floats or other positioning techniques.
+-  Greater control over the exact location of elements on the page.
+-  Ability to layer elements on top of each other.
+-  Flexibility to place elements outside of the normal flow of a page.
+-  Ability to place elements in precise locations relative to the browser window.
+-  Ability to create complex layouts without the need for floats or other positioning techniques.
 
 **What is a key difference between fixed positioning and absolute positioning?**
 > Absolute positioning fixes an element in place relative to its nearest positioned ancestor (the initial containing block if there isn't one), fixed positioning usually fixes an element in place relative to the visible portion of the viewport.
@@ -67,5 +67,7 @@
 ## Miscellaneous
 > Pair programming is the practice of two developers sharing a single workstation to interactively tackle a coding task together.
 > Pair programming commonly involves two roles: the Driver and the Navigator. The Driver is the programmer who is typing and the only one whose hands are on the keyboard.  The Navigator uses their words to guide the Driver but does not provide any direct input to the computer.
+>
 > Engaged collaboration - I plan to use engaged collaboration in pair programming to work together and solve problems more efficiently and effectively. It allows me to discuss ideas and share perspectives to come up with creative solutions.
+>
 > Social skills - Pair programming allows me to practice communication, collaboration, and problem-solving with someone else, which helps me develop my social skills.
