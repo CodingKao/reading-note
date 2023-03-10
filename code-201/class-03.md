@@ -1,6 +1,6 @@
 # Class 3 Notes
 
-# Introduction to Web Development
+# List, The Box Model, and Loops
 
 #### Link to article: [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 #### Link to article: [The Ordered List Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)

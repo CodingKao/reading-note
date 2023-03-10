@@ -1,6 +1,6 @@
 # Class 4 Notes
 
-# Introduction to Web Development
+# Links, Layouts, and Functions
 
 #### Link to article: [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 #### Link to article: [Creating hyperlinks](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
