@@ -1,4 +1,4 @@
-# Class 5 Notes
+# Class 6 Notes
 
 # Problem Domain, Objects, and the DOM
 
