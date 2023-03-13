@@ -23,12 +23,14 @@
 ## HTML Table Basics
 
 **Why should tables not be used for page layouts?**
-> TTables should not be used to create page layouts because they are not designed for that purpose. Tables are intended to display data, not create page layouts. Using tables can create accessibility issues, as well as create issues for mobile devices. Additionally, tables can make it difficult to achieve a responsive design. CSS should be used for page layout instead.
+> Tables should not be used to create page layouts because they are not designed for that purpose. Tables are intended to display data, not create page layouts. Using tables can create accessibility issues, as well as create issues for mobile devices. Additionally, tables can make it difficult to achieve a responsive design. CSS should be used for page layout instead.
 >
 >In short, using tables for layout rather than CSS layout techniques is a bad idea. The main reasons are as follows:
 >
 >Layout tables reduce accessibility for visually impaired users: screen readers, used by blind people, interpret the tags that exist in an HTML page and read out the contents to the user. Because tables are not the right tool for layout, and the markup is more complex than with CSS layout techniques, the screen readers' output will be confusing to their users.
+>
 >Tables produce tag soup: As mentioned above, table layouts generally involve more complex markup structures than proper layout techniques. This can result in the code being harder to write, maintain, and debug.
+>
 >Tables are not automatically responsive: When you use proper layout containers (such as \<header>, \<section>, \<article>, or \<div>), their width defaults to 100% of their parent element. Tables on the other hand are sized according to their content by default, so extra measures are needed to get table layout styling to effectively work across a variety of devices.
 
 **List and describe 3 different semantic HTML elements used in an HTML \<table>..**
