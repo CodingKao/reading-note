@@ -9,7 +9,7 @@
 #### Link to article: [Introduction to events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
 
 
-> 
+> HTML forms are important for capturing user input, while events are important for responding to user interactions. Together, they enable dynamic web pages and powerful user experiences.
 
 ***
 
