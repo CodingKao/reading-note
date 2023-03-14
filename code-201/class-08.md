@@ -1,6 +1,6 @@
 # Class 8 Notes
 
-# CSS Layout
+# CSS Layout Flexbox
 
 #### Link to article: [Flexbox](https://web.dev/learn/css/flexbox/)
 #### Link to article: [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
