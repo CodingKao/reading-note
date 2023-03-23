@@ -36,8 +36,8 @@ Welcome to my Reading Notes Learning Journal and I'm excited to share my journey
 - [Class 11 - Audio and Video in HTML; Domain Modeling Revisted](code-201/class-11.md)
 - [Class 12 - Canvas and ChartJS](code-201/class-12.md)
 - [Class 13 - Intro to Persistence with Local Storage](code-201/class-13.md)
-- [Class 14 - Documentation, Project Selection & Team Workflow](code-201/class-14.md)
-- [Class 15 -](code-201/class-15.md)
+- [Class 14a - Documentation, Project Selection & Team Workflow](code-201/class-14a.md)
+- [Class 14b - Psychological Safety](code-201/class-14b.md)
 
 
 ## Code 301 - Intermediate Software Development
