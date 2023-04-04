@@ -49,6 +49,13 @@ Welcome to my Reading Notes Learning Journal and I'm excited to share my journey
 - [Class 6 - ](code-301/Class6.md)
 - [Class 7 - ](code-301/Class7.md)
 - [Class 8 - ](code-301/Class8.md)
+- [Class 9 - ](code-301/Class9.md)
+- [Class 10 - ](code-301/Class10.md)
+- [Class 11 - ](code-301/Class11.md)
+- [Class 12 - ](code-301/Class12.md)
+- [Class 13 - ](code-301/Class13.md)
+- [Class 14 - ](code-301/Class14.md)
+
 
 ## Code 401 - Advance Software Development
 - [Class 1 - ](code-401/Class1.md)
