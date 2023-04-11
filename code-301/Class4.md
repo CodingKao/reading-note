@@ -1,7 +1,7 @@
 # Class 4 React and Forms
 
-#### Link to article: [React lifecycle](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
-#### Link to article: [React State Vs Props](https://www.youtube.com/watch?v=IYvD9oBCuJI)
+#### Link to article: [React Docs - Thinking in React](https://legacy.reactjs.org/docs/forms.html)
+#### Link to article: [The Conditional (Ternary) Operator Explained](https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff)
 
 > 
 
