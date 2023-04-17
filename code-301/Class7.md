@@ -1,39 +1,54 @@
-# Class 2 State and Props
+# Class 7 NODE.JS
 
-#### Link to article: [React lifecycle](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
-#### Link to article: [React State Vs Props](https://www.youtube.com/watch?v=IYvD9oBCuJI)
+#### Link to article: [An Introduction to Node.js on sitepoint.com](https://www.sitepoint.com/an-introduction-to-node-js/)
+#### Link to article: [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
 
 > 
 
 ***
 
-## React lifecycle
+## An Introduction to Node.js on sitepoint.com
 
-**Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?**
-> 
+**What is node.js?**
+> Node.js is a server-side JavaScript runtime environment that allows developers to run JavaScript code outside of a web browser.
 
-**What is the very first thing to happen in the lifecycle of React?**
-> 
+**In your own words, what is Chrome’s V8 JavaScript Engine?**
+> The Chrome V8 JavaScript Engine is like a super smart computer brain that helps web browsers understand and run JavaScript code really fast.
+
+**What does it mean that node is a JavaScript runtime?**
+> Node being a JavaScript runtime means that it is an environment in which developers can execute JavaScript code outside of a web browser, on a server or a computer, using the V8 engine.
+
+**What is npm?**
+> npm stands for "Node Package Manager", which allows developers to easily install, share, and manage the dependencies (libraries, frameworks, tools, etc.) required for their Node.js projects.
+
+**What version of node are you running on your machine?**
+> v19.4.0
+
+**What version of npm are you running on your machine?**
+> 9.2.0
+
+**What command would you type to install a library/package called ‘jshint’?**
+> npm install jshint
+
+**What is node used for?**
+> Node.js is used for building server-side applications, command-line tools, and scripts in JavaScript that can run outside the web browser environment.
 
 
-**Put the following things in the order that they happen: componentDidMount, render, constructor, componentWillUnmount, React Updates**
+***
+
+## 6 Reasons for Pair Programming
+
+**What are the 6 reasons for pair programming?**
 >
+> 1. Greater efficiency
+> 2. Engaged collaboration
+> 3. Learning from fellow students
+> 4. Social skills
+> 5. Job interview readiness
+> 6. Work environment readiness
 
-**What does componentDidMount do?**
-> 
+**In your experience, which of these reasons have you found most beneficial?**
+> Engaged collaboration makes coding more fun and engaging.  It allows me to focus on the task at hand and not procrastinate. 
 
-***
-
-## React State Vs Props
-
-**What types of things can you pass in the props?**
-> 
-
-**What is the big difference between props and state?**
-> 
-
-**When do we re-render our application?**
-> 
-
-**What are some examples of things that we could store in state?**
-> 
+**How does pair programming work?**
+> Pair programming involves two developers working together on a single task, with one writing the code and the other reviewing and providing feedback, in order to improve code quality, knowledge sharing, and collaboration.
