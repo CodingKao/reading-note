@@ -1,39 +1,49 @@
-# Class 2 State and Props
+# Class 6 REST
 
-#### Link to article: [React lifecycle](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
-#### Link to article: [React State Vs Props](https://www.youtube.com/watch?v=IYvD9oBCuJI)
+#### Link to article: [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+#### Link to article: [How I explained REST to my brother](https://gist.github.com/brookr/5977550)
+
 
 > 
 
 ***
 
-## React lifecycle
+## How I explained REST to my brother
 
-**Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?**
-> 
+**Who is Roy Fielding?**
+> Roy Fielding is a computer scientist and one of the principal authors of the HTTP specification and the architectural principles of the World Wide Web.
 
-**What is the very first thing to happen in the lifecycle of React?**
-> 
+**Why don’t the techniques that we use in this class work well when we need to be able to talk to all of the machines in the world?**
+> The techniques taught in a typical computer networking class are suitable for small and predictable networks, but the internet's global scale with millions of unique devices and constantly changing traffic requires different approaches.
 
+**What is the HTTP protocol that Fielding and his friends created?**
+> Fielding and his colleagues created the Hypertext Transfer Protocol (HTTP), which is the foundation of data communication on the World Wide Web.
 
-**Put the following things in the order that they happen: componentDidMount, render, constructor, componentWillUnmount, React Updates**
->
+**What does a GET do?**
+> A GET request method is used to retrieve data or a resource from a server. It requests the server to transmit a representation of a resource identified by a URL to the client.
 
-**What does componentDidMount do?**
-> 
+**What does a POST do?**
+> A POST request sends data to a server to create or update a resource.
+
+**What does PUT do?**
+> PUT is an HTTP method that is used to update or replace a resource on a server.
+
+**What does PATCH do?**
+> PATCH is an HTTP method used to partially update an existing resource on the server.
+
 
 ***
 
-## React State Vs Props
+## API Keys
 
-**What types of things can you pass in the props?**
-> 
+**Geocoding API**
+> [Geocoding API](https://locationiq.com/)
 
-**What is the big difference between props and state?**
-> 
+**Weather Bit API**
+> [Weather Bit API](https://www.weatherbit.io/)
 
-**When do we re-render our application?**
-> 
+**Yelp API Docs**
+> [Yelp API Docs](https://docs.developer.yelp.com/reference/v3_business_search)
 
-**What are some examples of things that we could store in state?**
-> 
+**The Movie DB API Docs**
+> [The Movie DB API Docs](https://developers.themoviedb.org/3/getting-started/introduction)
