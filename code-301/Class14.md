@@ -1,39 +1,30 @@
-# Class 2 State and Props
+# Class 14 Diversity & Inclusion in the Tech Industry
 
-#### Link to article: [React lifecycle](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
-#### Link to article: [React State Vs Props](https://www.youtube.com/watch?v=IYvD9oBCuJI)
-
+#### Link to article: [That Time When Women Stopped Coding](https://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding)
+#### Link to article: [Employee breakdown of key technology companies](https://informationisbeautiful.net/visualizations/diversity-in-tech/)
+#### Link to article: [Why diversity matters to your tech company](https://www.usatoday.com/story/tech/columnist/2015/07/21/why-diversity-matters-your-tech-company/30419871/)
 > 
 
 ***
 
-## React lifecycle
+## That Time When Women Stopped Coding
 
-**Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?**
-> 
+**What occurred during the same time as the beginning of the decline of women in computer science?**
+> Women's computer science declined with rise of personal computers.
 
-**What is the very first thing to happen in the lifecycle of React?**
-> 
+**Why does it matter that males had been playing on computers growing up?**
+> Males' early exposure to computers may have influenced their later interest in computer-related fields.
 
 
-**Put the following things in the order that they happen: componentDidMount, render, constructor, componentWillUnmount, React Updates**
 >
 
-**What does componentDidMount do?**
-> 
+**When are diversity efforts most successful?**
+> The commitment of company leaders is crucial for the success of diversity efforts.
 
-***
 
-## React State Vs Props
+**Why do diverse companies perform better?**
+> Diverse companies build better for diverse customers, foster innovation, make better decisions, and have more engaged employees.
 
-**What types of things can you pass in the props?**
-> 
 
-**What is the big difference between props and state?**
-> 
-
-**When do we re-render our application?**
-> 
-
-**What are some examples of things that we could store in state?**
-> 
+**Give an example of how a diverse company can serve a diverse user base or vise-versa.**
+>A company can serve a diverse user base by actively seeking input from customers with different backgrounds and experiences, and using that feedback to inform product development and marketing strategies.
