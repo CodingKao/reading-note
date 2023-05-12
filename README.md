@@ -59,8 +59,8 @@ Welcome to my Reading Notes Learning Journal and I'm excited to share my journey
 
 ## Code 401 - Advance Software Development
 
-- [The Growth Mindset -](code-401/The-Growth-Mindset)
-- [Introduction to SQL -](code-401/SQL)
+- [The Growth Mindset](code-401/The-Growth-Mindset)
+- [Introduction to SQL](code-401/SQL)
 - [Class 1 -](code-401/Class1.md)
 - [Class 2 -](code-401/Class2.md)
 - [Class 3 -](code-401/Class3.md)
