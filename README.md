@@ -62,7 +62,7 @@ Welcome to my Reading Notes Learning Journal and I'm excited to share my journey
 - [The Growth Mindset](code-401/The-Growth-Mindset)
 - [Introduction to SQL](code-401/SQL.md)
 - [The Command Line](code-401/Practice-in-the-Terminal.md)
-- [Class 1 -](code-401/Class1.md)
+- [Class 1 -Node Ecosystem](code-401/Class1.md)
 - [Class 2 -](code-401/Class2.md)
 - [Class 3 -](code-401/Class3.md)
 - [Class 4 -](code-401/Class4.md)
