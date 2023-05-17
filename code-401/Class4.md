@@ -1,47 +1,48 @@
 # Class 4 Data Modeling
 
-#### Link to article: [Review: ES6 Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+#### Link to article: [nosql vs sql](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 
-#### Link to article: [Using Express Routing](https://expressjs.com/en/guide/routing.html)
+#### Link to article: [sql modeling techniques](https://expressjs.com/en/guide/routing.html)
 
-#### Link to article: [Express Routing?](https://www.digitalocean.com/community/tutorials/learn-to-use-the-new-router-in-expressjs-4)
+#### Link to video: [sql vs nosql](https://www.digitalocean.com/community/tutorials/learn-to-use-the-new-router-in-expressjs-4)
 
 ***
 
-## Review: ES6 Classes
+## nosql vs sql
 
-**Classes are a template for creating ____.**
-> JS classes: object creation templates that hold data and code, built on prototypes, with unique syntax and semantics.
+**What type of database is the best fit for the complex query intensive environment?**
+> 
+SQL database.
 
-**Can a class declaration be hoisted?**
-> No, class declarations in JavaScript are not hoisted. They need to be declared before they can be accessed or used in the code.
+**What type of database is the best fit for hierarchical data storage?**
+> NoSQL database.
 
-**How would you describe a constructor and contextual “this” to a non-technical friend?**
-> A constructor is like a blueprint for creating objects, and "this" refers to the object being created.
+**Describe the differences in scalability between a SQl and NoSQL database as though you were speaking to a non-technical friend.**
+> SQL databases can have trouble handling really large amounts of data, while NoSQL databases are designed to handle massive amounts of data and scale easily.
 
-## Using Express Routing
+## sql modeling techniques
 
-**Within Express, what does routing refer to?**
-> Routing in Express refers to the process of directing incoming requests to their respective handlers or endpoints.
+**Among data tables, what is a one-to-many relationship and how do we “relate” them?**
+> A one-to-many relationship is when an entry in one table can be associated with multiple entries in another table. We relate them using foreign key columns.
 
-**What is the difference between a route path and a route method?**
-> A route path in Express defines the URL pattern, while a route method specifies the HTTP verb used to access that path.
+**Prior to designing your relational database, it might be useful to ___ a ___ of the database tables and their relationships.**
+> Prior to designing your relational database, it might be useful to create a diagram of the database tables and their relationships.
 
-**When is it appropriate to add next as a parameter to a route handler and what must you do if next has been passed to your middleware as a parameter?**
-> `next` is used to pass control to the next middleware/route handler. If received, you must invoke `next()` to proceed to the `next` function in the middleware chain.
+**Explain the difference between a primary and foreign key.**
+> Primary key uniquely identifies rows in a table, while foreign key establishes relationships between tables.
 
-## Express Routing
+## sql vs nosql
 
-**What is an Express Router?**
-> Express Router is a modular routing middleware that allows grouping and organizing routes in separate files for better code organization.
+**How do we treat keywords and parameters differently in SQL syntax?**
+> Keywords in SQL are reserved and have predefined meanings, while parameters are values that can be passed to SQL statements dynamically.
 
-**By what mean do we initialize express.Router() in an express server?**
-> By calling the `express.Router()` function and assigning it to a variable, typically named `router`, in the Express server.
+**Define normalization within the context of schemas and data.**
+> Normalization is the process of organizing data in a database to eliminate redundancy and improve efficiency.
 
-**What do we use route middleware for?**
-> We use route middleware in Express to perform additional operations on the request and response objects before passing control to the route handler.
+**Explain the difference between one-to-one, one-to-many, and many-to-many relationships to a non-technical recruiter.**
+> In one-to-one, one person is associated with another. In one-to-many, one person is associated with multiple others. In many-to-many, multiple people are associated with multiple others.
 
 ## Reflection
 
 **What are your learning goals after reading and reviewing the class README?**
-> My learning goals are to gain a better understanding of ES6 features, learn how to use express routing effectively, and become proficient in working with express middleware and routing.
+> My learning goals are to utilize SQL and NoSQL is future assignments and projects. 
