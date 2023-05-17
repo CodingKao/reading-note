@@ -66,7 +66,7 @@ Welcome to my Reading Notes Learning Journal and I'm excited to share my journey
 - [Prep: Engineering Readings](code-401/Prep-Engineering-Readings.md)
 - [Class 1 - Node Ecosystem](code-401/Class1.md)
 - [Class 2 - Express, NPM, TDD, CI/CD](code-401/Class2.md)
-- [Class 3 - Express REST API](code-401/Class4.md)
+- [Class 3 - Express REST API](code-401/Class3.md)
 - [Class 4 -](code-401/Class4.md)
 - [Class 5 -](code-401/Class5.md)
 - [Class 6 -](code-401/Class6.md)
