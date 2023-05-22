@@ -4,7 +4,7 @@
 
 #### Link to article: [Basic Auth](https://en.wikipedia.org/wiki/Basic_access_authentication)
 
-#### Link to video: [OWASP auth cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
+#### Link to article: [OWASP auth cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
 
 ***
 
