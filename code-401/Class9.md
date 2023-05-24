@@ -22,4 +22,5 @@ Build a platform that connects volunteers with organizations and projects based 
 Develop an online platform that connects pet seekers with animal shelters and pet owners looking to rehome their pets. Include search filters, profiles, and adoption application features.
 
 **What are your learning goals after reading and reviewing the class README?**
-> My goal is to build a CMS application with API server, authentication, and database operations.
+
+My goal is to build a CMS application with API server, authentication, and database operations.
