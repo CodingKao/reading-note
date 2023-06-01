@@ -76,7 +76,7 @@ Welcome to my Reading Notes Learning Journal and I'm excited to share my journey
 - [Class 10 -](code-401/Class10.md)
 - [Class 11 - Event Driven Applications](code-401/Class11.md)
 - [Class 12 - Socket.io](code-401/Class12.md)
-- [Class 13 -](code-401/Class13.md)
+- [Class 13 - Message Queues](code-401/Class13.md)
 - [Class 14 -](code-401/Class14.md)
 - [Class 15 -](code-401/Class15.md)
 - [Class 16 -](code-401/Class16.md)
