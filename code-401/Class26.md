@@ -9,15 +9,15 @@
 
 **Bookmarks**
 
-#### Link to article: [Your First Component](https://www.youtube.com/watch?v=yIVXjl4SwVo)
+#### Link to article: [Your First Component](https://react.dev/learn/your-first-component)
 
-#### Link to article: [Importing and Exporting Components](https://www.youtube.com/watch?v=l0DfHUWMjsU)
+#### Link to article: [Importing and Exporting Components](https://react.dev/learn/importing-and-exporting-components)
 
-#### Link to article: [Writing Markup with JSX](https://www.youtube.com/watch?v=l0DfHUWMjsU)
+#### Link to article: [Writing Markup with JSX](https://react.dev/learn/writing-markup-with-jsx)
 
-#### Link to article: [sass cheatsheet](https://www.youtube.com/watch?v=l0DfHUWMjsU)
+#### Link to article: [sass cheatsheet](https://devhints.io/sass)
 
-#### Link to article: [react cheatsheet](https://www.youtube.com/watch?v=l0DfHUWMjsU)
+#### Link to article: [react cheatsheet](https://devhints.io/react)
 
 ***
 
