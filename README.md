@@ -97,7 +97,7 @@ Welcome to my Reading Notes Learning Journal and I'm excited to share my journey
 - [Class 31 - Context API](code-401/Class31.md)
 - [Class 32 - Context API - Behaviors](code-401/Class32.md)
 - [Class 33 - `<Login />` and `<Auth />`](code-401/Class33.md)
-- [Class 34 -](code-401/Class34.md)
+- [Class 34 - API Integration](code-401/Class34.md)
 - [Class 35 -](code-401/Class35.md)
 - [Class 36 -](code-401/Class36.md)
 - [Class 37 -](code-401/Class37.md)
