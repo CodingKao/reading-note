@@ -94,7 +94,7 @@ Welcome to my Reading Notes Learning Journal and I'm excited to share my journey
 - [Class 28 - Component Lifecycle / `useEffect` Hook](code-401/Class28.md)
 - [Class 29 - Advanced State with Reducers](code-401/Class29.md)
 - [Class 30 -](code-401/Class30.md)
-- [Class 31 -](code-401/Class31.md)
+- [Class 31 - Context API](code-401/Class31.md)
 - [Class 32 -](code-401/Class32.md)
 - [Class 33 -](code-401/Class33.md)
 - [Class 34 -](code-401/Class34.md)
