@@ -99,7 +99,7 @@ Welcome to my Reading Notes Learning Journal and I'm excited to share my journey
 - [Class 33 - `<Login />` and `<Auth />`](code-401/Class33.md)
 - [Class 34 - API Integration](code-401/Class34.md)
 - [Class 35 -](code-401/Class35.md)
-- [Class 36 -](code-401/Class36.md)
+- [Class 36 -Application State with Redux](code-401/Class36.md)
 - [Class 37 -](code-401/Class37.md)
 - [Class 38 -](code-401/Class38.md)
 - [Class 39 -](code-401/Class39.md)
