@@ -103,7 +103,7 @@ Welcome to my Reading Notes Learning Journal and I'm excited to share my journey
 - [Class 37 - Redux - Combined Reducers](code-401/Class37.md)
 - [Class 38 - Redux - Asynchronous Actions](code-401/Class38.md)
 - [Class 39 - Redux - Additional Topics](code-401/Class39.md)
-- [Class 40 -](code-401/Class40.md)
+- [Class 40 - Gatsby, next.js, and other JS Frameworks](code-401/Class40.md)
 - [Class 41 -](code-401/Class41.md)
 - [Class 42 -](code-401/Class42.md)
 - [Class 43 -](code-401/Class43.md)
