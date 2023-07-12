@@ -1,4 +1,4 @@
-# Class 39: Reading: Gatsby, next.js, and other JS Frameworks
+# Class 40: Reading: Gatsby, next.js, and other JS Frameworks
 
 #### Link to article: [Learn Next.js](https://nextjs.org/learn/basics/create-nextjs-app)
 
