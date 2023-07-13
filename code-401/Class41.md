@@ -12,33 +12,6 @@
 
 ***
 
-## Next.js
+## Summary of Topic
 
-**Teach us two things about Next.js.**
-
-> 1. Next.js is a framework for building web applications.
-    With Next.js, you can build user interfaces using React components. Then, Next.js provides additional structure, features, and optimizations for your application.
-> 2. Next.js built-in features includes:
->       - An intuitive page-based routing system (with support for dynamic routes)
->       - Pre-rendering, both static generation (SSG) and server-side rendering (SSR) are supported on a per-page basis
->       - Automatic code splitting for faster page loads
->       - Client-side routing with optimized prefetching
->       - Built-in CSS and Sass support, and support for any CSS-in-JS library
->       - Development environment with Fast Refresh support
->       - API routes to build API endpoints with Serverless Functions
->       - Fully extendable
-
-
-## Gatsby.js
-
-**Teach us two things about Gatsby.js..**
-
-> 1. Gatsby enables developers to build fast, secure, and powerful websites using a React-based framework and innovative data layer that makes integrating different content, APIs, and services into one web experience incredibly simple.
-> 2. The key feature of Gatsby.js is its ability to generate static HTML files during the build process, which can be served directly to the client. This approach results in faster load times, improved performance, and better search engine optimization (SEO).
-
-
-
-## Reflection
-
-**What are your learning goals after reading and reviewing the class README?**
-> Learning goals are to understand how to use Next.js and Gatsby.js and other JS frameworks. 
+> Contributing to open source projects is similar to joining a club or team where I can help others and learn new things. It's like starting at a new school and wanting to get involved. Thankfully, there are tutorials and websites that guide me on how to participate, just like there are clubs or sports teams that welcome newcomers. I can start with easy tasks and find projects that have clear rules for being kind and respectful. Although it might feel a bit scary at first, the feeling of accomplishment and being part of a community is incredibly rewarding!
