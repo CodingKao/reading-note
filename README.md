@@ -106,7 +106,7 @@ Welcome to my Reading Notes Learning Journal and I'm excited to share my journey
 - [Class 40 - Gatsby, next.js, and other JS Frameworks](code-401/Class40.md)
 - [Class 41 - OSS Contributions](code-401/Class41.md)
 - [Class 42 -](code-401/Class42.md)
-- [Class 43 -](code-401/Class43.md)
-- [Class 44 -](code-401/Class44.md)
+- [Class 43 - React Native](code-401/Class43.md)
+- [Class 44 - Ethics](code-401/Class44.md)
 
 ## Things I want to know more about
